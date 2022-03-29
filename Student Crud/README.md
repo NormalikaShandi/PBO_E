@@ -13,3 +13,6 @@
 
 #### Mencari data student by id
 ![Tambah Data](https://github.com/NormalikaShandi/PBO_E/blob/main/Student%20Crud/img/Screenshot%20(734).png "Tambah Data")
+
+#### Menghapus data student
+![Tambah Data](https://github.com/NormalikaShandi/PBO_E/blob/main/Student%20Crud/img/Screenshot%20(735).png "Tambah Data")
